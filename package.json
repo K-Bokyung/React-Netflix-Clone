@@ -2,7 +2,7 @@
   "name": "react-netflix-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://K-Bokyung.github.io/React-Netflix-Clone",
+  "homepage": "https://k-bokyung.github.io/React-Netflix-Clone",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
