@@ -7,7 +7,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode basename='react-netflix'>
+  <React.StrictMode basename='React-Netflix-Clone'>
     <BrowserRouter>
       <App />
     </BrowserRouter>
